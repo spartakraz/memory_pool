@@ -1,0 +1,4 @@
+This is a static library which implements a memory pool in C.
+Use Makefile to build the library. Use MEMPOOL.H as the
+library's public header. The TESTS folder contains test files
+demonstrating how to use the library.
